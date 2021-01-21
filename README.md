@@ -10,7 +10,7 @@ This template builds WordPress on Platform.sh using the [`johnbloch/wordpress`](
 
 WordPress is a blogging and lightweight CMS written in PHP.
 
-something
+New feature
 
 ## Features
 
