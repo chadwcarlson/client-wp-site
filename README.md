@@ -46,7 +46,7 @@ define('NONCE_KEY', 'NONCE_SALT');
 define('AUTH_SALT', 'SECURE_AUTH_SALT');
 ```
 
-## Customizations
+## Customizations - remember these
 
 The following changes have been made relative to WordPress as it is downloaded from WordPress.org.  If using this project as a reference for your own existing project, replicate the changes below to your project.
 
